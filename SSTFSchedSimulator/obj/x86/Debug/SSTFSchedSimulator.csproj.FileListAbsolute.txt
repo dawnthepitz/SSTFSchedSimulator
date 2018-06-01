@@ -8,3 +8,9 @@ C:\Users\user\Documents\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\Inte
 C:\Users\user\Documents\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\SSTFSchedSimulator.csproj.ResolveComReference.cache
 C:\Users\user\Documents\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\SSTFSchedSimulator.exe
 C:\Users\user\Documents\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\SSTFSchedSimulator.pdb
+C:\Users\root\Documents\GitHub\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\root\Documents\GitHub\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\SSTFSchedSimulator.csproj.ResolveComReference.cache
+C:\Users\root\Documents\GitHub\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\SSTFSchedSimulator.exe
+C:\Users\root\Documents\GitHub\SSTFSchedSimulator\SSTFSchedSimulator\obj\x86\Debug\SSTFSchedSimulator.pdb
+C:\Users\root\Documents\GitHub\SSTFSchedSimulator\SSTFSchedSimulator\bin\Debug\SSTFSchedSimulator.exe
+C:\Users\root\Documents\GitHub\SSTFSchedSimulator\SSTFSchedSimulator\bin\Debug\SSTFSchedSimulator.pdb
